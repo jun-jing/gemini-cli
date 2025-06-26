@@ -4,7 +4,7 @@
 source /opt/anaconda3/etc/profile.d/conda.sh
 
 # 激活 Conda 环境
-conda activate py310-venv_20240405_140626
+conda activate py310-venv_20250626_165812-GeminiCli
 
 # 运行 Python 脚本
 python App.py
